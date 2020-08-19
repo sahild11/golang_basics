@@ -1,0 +1,1 @@
+docker run --rm -itd --name godev --mount type=bind,src=/Users/sahildilwali/Projects/golang/gobebinco,dst=/gobebinco golang:latest

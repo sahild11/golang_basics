@@ -1,4 +1,4 @@
-package learning2
+package pkgx
 
 // import "https://github.com/golang/tour"
 import (
